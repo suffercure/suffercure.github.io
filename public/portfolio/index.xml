@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Uttkarsh Narayan</title>
-    <link>https://www.uttkarshnarayan.com/portfolio/</link>
-    <description>Recent content in Projects on Uttkarsh Narayan</description>
+    <title>Projects on Aditya Narayan</title>
+    <link>https://suffercure.github.io/portfolio/</link>
+    <description>Recent content in Projects on Aditya Narayan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright><atom:link href="https://www.uttkarshnarayan.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright><atom:link href="https://suffercure.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Debris</title>
-      <link>https://www.uttkarshnarayan.com/portfolio/project-4/</link>
+      <link>https://suffercure.github.io/portfolio/project-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.uttkarshnarayan.com/portfolio/project-4/</guid>
+      <guid>https://suffercure.github.io/portfolio/project-4/</guid>
       <description>In Debris, players are tasked with assigning contractors to collect debris around a borough in New York after it was hit with a natural disaster.</description>
     </item>
     
     <item>
       <title>Geoexplorer</title>
-      <link>https://www.uttkarshnarayan.com/portfolio/project-3/</link>
+      <link>https://suffercure.github.io/portfolio/project-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.uttkarshnarayan.com/portfolio/project-3/</guid>
+      <guid>https://suffercure.github.io/portfolio/project-3/</guid>
       <description>GeoExplorer is an educational game has been developed for undergraduate classroom settings for the instruction of Geotechnical Engineering (i.</description>
     </item>
     
     <item>
       <title>Studycrafter</title>
-      <link>https://www.uttkarshnarayan.com/portfolio/project-2/</link>
+      <link>https://suffercure.github.io/portfolio/project-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.uttkarshnarayan.com/portfolio/project-2/</guid>
+      <guid>https://suffercure.github.io/portfolio/project-2/</guid>
       <description>StudyCrafter is a free playful platform where users can create, play, and share research projects to advance our understanding of human behavior together.</description>
     </item>
     
     <item>
       <title>XERT</title>
-      <link>https://www.uttkarshnarayan.com/portfolio/project-1/</link>
+      <link>https://suffercure.github.io/portfolio/project-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.uttkarshnarayan.com/portfolio/project-1/</guid>
+      <guid>https://suffercure.github.io/portfolio/project-1/</guid>
       <description>Our goal in this program is to facilitate the coordinated transformation of the workforce in industry and in the government (both civilian and military sectors) and ensure that the training and capability of skilled personnel in the government sector (both uniformed and civilian) are able to adapt and keep pace with the accelerated rate of change in advanced and additive manufacturing practices.</description>
     </item>
     

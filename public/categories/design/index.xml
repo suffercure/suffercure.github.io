@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>design on Uttkarsh Narayan</title>
-    <link>https://www.uttkarshnarayan.com/categories/design/</link>
-    <description>Recent content in design on Uttkarsh Narayan</description>
+    <title>design on Aditya Narayan</title>
+    <link>https://suffercure.github.io/categories/design/</link>
+    <description>Recent content in design on Aditya Narayan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright><atom:link href="https://www.uttkarshnarayan.com/categories/design/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright><atom:link href="https://suffercure.github.io/categories/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Studycrafter</title>
-      <link>https://www.uttkarshnarayan.com/portfolio/project-2/</link>
+      <link>https://suffercure.github.io/portfolio/project-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.uttkarshnarayan.com/portfolio/project-2/</guid>
+      <guid>https://suffercure.github.io/portfolio/project-2/</guid>
       <description>StudyCrafter is a free playful platform where users can create, play, and share research projects to advance our understanding of human behavior together.</description>
     </item>
     
     <item>
       <title>XERT</title>
-      <link>https://www.uttkarshnarayan.com/portfolio/project-1/</link>
+      <link>https://suffercure.github.io/portfolio/project-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.uttkarshnarayan.com/portfolio/project-1/</guid>
+      <guid>https://suffercure.github.io/portfolio/project-1/</guid>
       <description>Our goal in this program is to facilitate the coordinated transformation of the workforce in industry and in the government (both civilian and military sectors) and ensure that the training and capability of skilled personnel in the government sector (both uniformed and civilian) are able to adapt and keep pace with the accelerated rate of change in advanced and additive manufacturing practices.</description>
     </item>
     
