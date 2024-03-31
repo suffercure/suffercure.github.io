@@ -1,6 +1,6 @@
 ######################## configuration ####################
-baseURL = 'https://www.uttkarshnarayan.com/'
-title = 'Uttkarsh Narayan'
+baseURL = 'https://suffercure.github.io/'
+title = 'Aditya Narayan'
 theme = "somrat2"
 # post pagination
 paginate = "6"
